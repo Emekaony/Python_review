@@ -1,0 +1,4 @@
+To add stuff to your requirements.txt use -> pip freeze > requirements.txt
+That way, you do not have to commit your virtual environment
+all you do is commit your requirements.txt and anyone can download that
+This is similar to node.js and package.json in javascript
